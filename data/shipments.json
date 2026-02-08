@@ -1,0 +1,14 @@
+{
+  "SH1001": {
+    "carrier": "DHL",
+    "status": "In Transit",
+    "current_location": "Hyderabad",
+    "expected_delivery": "2026-02-10"
+  },
+  "SH1002": {
+    "carrier": "FedEx",
+    "status": "Out for Delivery",
+    "current_location": "Bangalore",
+    "expected_delivery": "2026-02-08"
+  }
+}

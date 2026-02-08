@@ -1,0 +1,2 @@
+# No external libraries required for basic version
+streamlit
